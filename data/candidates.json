@@ -1,0 +1,10 @@
+[
+  {
+    "candidate_id":"C001",
+    "name":"John Doe",
+    "summary":"Python Developer with Flask and MongoDB",
+    "skills":["Python","Flask","MongoDB"],
+    "experience":3,
+    "projects":["API System"]
+  }
+]
