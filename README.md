@@ -8,7 +8,7 @@ TalentSphere is a next-generation AI recruitment platform that helps organizatio
 
 </div>
 
-# 📌 Problem Statement
+# 📌 problem statement
 
 Modern recruitment platforms primarily rely on keyword-based Applicant Tracking Systems (ATS). These systems often fail to understand the actual context of skills, experience, projects, certifications, and candidate potential.
 
