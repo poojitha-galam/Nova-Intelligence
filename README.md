@@ -1,6 +1,6 @@
 # 🚀 TalentSphere – AI-Powered Candidate Matching & Recruitment Intelligence Platform
 
-<div align="center">
+<div align="center">    
 
 ### Transforming Recruitment with AI, Semantic Search & Explainable Intelligence
 
