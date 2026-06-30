@@ -6,7 +6,7 @@
 
 TalentSphere is a next-generation AI recruitment platform that helps organizations identify, evaluate, rank, and hire the most relevant candidates using Natural Language Processing (NLP), Semantic Search, Machine Learning, Explainable AI, and Recruitment Analytics.
 
-</div>  
+</div> 
 
 # 📌 problem statement
 
